@@ -46,3 +46,4 @@
 
 # REFERENCE
 - [Governance Parameters](./reference/parameters.md)
+- [Socials](./reference/socials.md)
